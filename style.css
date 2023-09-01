@@ -1,0 +1,40 @@
+header
+{
+    background-color: #007BFF;
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
+}
+body
+{
+    font-family: "Helvetica Nue", Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+main 
+{
+    padding: 2rem ;
+}
+.section
+{
+    margin-bottom: 2rem;
+    text-align: center;
+    border: 2px solid #043a74 ;
+}
+.experience, .education 
+{
+  
+    padding-left: 1rem;
+    margin-bottom: 1rem;
+}
+h1, h2, h3 {
+    margin: 0;
+    text-transform: uppercase;
+}
+p{
+    margin: 0.5rem 0 ;
+}
+.mat
+{
+    color: orangered;
+}
